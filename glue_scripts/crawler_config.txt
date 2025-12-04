@@ -1,0 +1,5 @@
+Crawler Name: sales-data-crawler
+IAM Role: GlueETLRole
+S3 Path: s3://gokul-data-pipeline-bucket/raw/
+Database: sales_database
+
